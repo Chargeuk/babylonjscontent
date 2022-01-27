@@ -1,0 +1,7 @@
+toktx --bcmp --clevel 5 skybox_nx.ktx2 skybox_nx.jpg
+toktx --bcmp --clevel 5 skybox_ny.ktx2 skybox_ny.jpg
+toktx --bcmp --clevel 5 skybox_nz.ktx2 skybox_nz.jpg
+toktx --bcmp --clevel 5 skybox_px.ktx2 skybox_px.jpg
+toktx --bcmp --clevel 5 skybox_py.ktx2 skybox_py.jpg
+toktx --bcmp --clevel 5 skybox_pz.ktx2 skybox_pz.jpg
+
